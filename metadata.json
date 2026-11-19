@@ -1,0 +1,5 @@
+{
+  "name": "Hostel Mess Management",
+  "description": "Comprehensive hostel mess management system with student registration, role-based access, daily meal menu updates, 1-5 star meal ratings, feedback, announcements, and admin analytics.",
+  "requestFramePermissions": []
+}
